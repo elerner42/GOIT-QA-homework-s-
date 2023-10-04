@@ -1,0 +1,52 @@
+& **************************************************************************** &
+&                                                 ____        ____  ______     &
+&    TAREA1.txt                                  / ___| ___  |    ||__  __|    &
+&                                               | |  _ / _ \  |  |   |  |      &
+&                                               | |_| | (_) | |  |   |  |      &
+&                                                \____|\___/ |____|  |__|      &
+&    By: ernestolerner@gmail.com                                               &
+&                                                                              &
+&    Created: 2023/10/04 21:58:58 by elerner42                                 &
+&    Updated: 2023/10/04 21:58:59 by elerner42                                 & 
+&                                                                              &
+& **************************************************************************** &
+
+
+RESPUESTAS TAREA 1 - TEMA 2
+
+1.- Sitio Web que se Analizó:
+
+https://www.xe.com/
+
+2.- Funciones que son en mi Principales:
+
+2.1.- Envio de Dinero tanto como en el plan Personal como en el de Empresas.
+2.2.- Conversion de Divisas, Tambien en el Plan Personal y Empresas.
+2.3.- Integraciones Por medio de API. 
+2.4. Analicis de Riesgos con respecto al mercado monetario, solo en plan para empresas.
+
+3.- Funciones propuestas en cada ciclo de vida del Software.
+
+Analisis:
+
+Participa de esta etapa entendiendo cuales son los requisitos y las solicitudes del cliente, para comprender lo que se espera en general del producto y que sea lo que el cliente realmente quiere.
+
+Planificación:
+
+Realiza los planes para hacer las distintas pruebas, el tiempo de duracion, objetivos, como trabajar el personal.
+
+Diseño:
+
+Aporta junto con el arquitecto y recomienda entornos fisicos de prueba, datos y alternativas para que el producto sea probado el un entorno lo mas real posible.
+
+Desarrollo:
+
+En este puede aportar metodologias de programacion que serian las mejores opciones para desarrollar el producto y tambien realizar las pruebas sea lo mas eficiente posible, reportar los errores encontrados y verifica si estos errores han sido corregidos correctamente.
+
+Puebas:
+
+El la parte principal de un QA, participa como primera persona y aporta documentacion de las pruebas realizadas, verificaciones, validaciones, incidencias y recomendaciones al equipo.
+
+Implementacion:
+
+Aporta mejoras  en los cada etapa del ciclo de vida y buscando formas de aumentar la calidad del Software.
