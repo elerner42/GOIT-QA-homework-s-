@@ -1,0 +1,76 @@
+1. NIVELES DE PRUEBAS - RED SOCIAL "TWITTER.COM"
+
+	1.1.- PRUEBAS UNITARIAS.-
+
+	Escogemos funciones importantes, para verificar el correcto fucnionamiento, realizando 	pruebas aisladas media pruebas unitarias, siempre a un nivel de funcionalidades 	individuales, se probaria componentes importantes como por ejemplo: la publicacion de 	Tweets, creacion de cuenta, busqueda de usuarios y el envio de mensajes directos. 
+
+	1.2. PRUEBAS DE INTEGRACION: 
+
+	En este nivel de prueba podemos probar los flujos que tengan mayor prioridad en la 	plataforma y como funcionan sus componentes entre si, como por ejemplo:  como 	interactua la busqueda con la funcion de perfil de usuario, tambien post y el modulo de 	comentarios publicos.
+
+	1.3. PRUEBAS DEL SISTEMA: 
+
+	Para este nivel de pruebas debemos tomar en cuenta las pruebas de carga que nos ayudara 	a ver como twitter maneja miles de usuarios conectados al mismo tiempo, y asegurarnos 	que todas la funcionalidades trabajan correctamente juntas sin ningun problema.
+
+	1.4. PRUEBAS DE ACEPTACION:
+
+	En este tipo de pruebas debemos hacer pruebas con usuarios reales, conseguir el feedback 	de cada uno de ellos sobre su experiencia y la usabilidad general de Twitter.
+
+	Tambien debemos tomar en cuenta hacer pruebas no funcionales como Pruebas de 	Seguridad, compatibilidad en dispositivos, exploradores y Sistemas Operativos.
+
+	1.5 CONCLUCION
+
+	Debemos tener en cuenta preparar todas estar pruebas en entornos controlados y 	documentar los procedimientos de los niveles de pruebas a las que sometimos la 	plataforma, ya que esto ayudaria a tener un historial para futuros diagnosticos y ayudar a la 	resolucion de problemas que puedan aparecer.
+	
+
+2. PRUEBA DE ACEPTACION  (CALCULADORA ESTANDAR DE WINDOS (5 min)):
+
+	2.1 Pruebas de funciones básicas: suma, resta, multiplicación, y divición, asegurandonos 	que las operaciones sean correctas.
+
+	2.2 Pruebas de funciones avanzadas: raíz cuadrada, porcentajes y las operaciones con 	memoria (MC, MR, M+, M-).
+
+	2.3 Pueba de memoria: Por ultimo cerramos y abrimos la calculadora y verificamos si 	mantenemos un historias de la ultima operación realizada.
+
+	2.4 Prueba de interfaz de usuario: Probas que todos los botones funcionan corectamente al 	hacer clic y si las respuestas y operaciones se muestran de manera correcta en pantalla.
+
+	2.5 CONCLUCIÓN
+
+	Considero que estas pruebas cubren las funcionalidades principales, que ayuda a los 	usuarios finales a que esten seguros que la aplicacion hace lo que se espera.
+
+3. PRUEBAS DEL SISTEMA (5 Casos de Uso principales):
+
+	3.1 Iniciar sesión: es una Caso de Uso es critico para una aplicacion de este tipo ya que 	proporciona el acceso a las cuentas de los clientes y a realizar transacciones. En las 	pruebas se incluyen inicio de sesion correcto e incorrecto  y recuperacion de contraseña y 	verificacion de dos factores.
+
+	3.2 Visualizar el saldo y  transacciones: El cliente debe poder ver su histoorial de 	transacciones y los saldos en sus cuentas y tarjetas. las pruebas deben confirmar que los 	datos son correctos. y que se actuallizan en tiempo real.
+
+	3.3 Realizar transferencias, solicitud cobros y pagos: En este caso de uso el cliente tiene 	que poder hacer transferencias entre sus cuentas y cuentas de terceros del mismo banco u 	otros bancos. Domiciliar pagos, facturas, etc. facilidad de ver el historial de estas 	transacciones.
+
+	3.4 Depositar y retirar dinero: como el nombre lo indica el cliente debe poder realizar 	debitos y depositos entre sus cuentas, tambien la integracion con la aplicacion movil y 	cajeros automaticos.
+
+	3.5 Gestion de la configuración de la cuenta: El cliente debera poder cambiar la 	informacion personal y tener notificaciones de verificacion de los datos modificados, 	cambio de contraseña, pin de trjeta y habilitar y deshabilitar la verificacion de doble factor.
+
+4. PRUEBAS DE INTEGRACION EN CASOS DE PRUEBAS DE LA PLATAFORMA (facebook).
+
+	4.1 Pruebas Bottom-up: Comenzamos realizando pruebas de los componentes mas 	pequeños, como la funcionalidad de publicar mi estado y verificar si la funcionalidad de 	feed de noticias, realiza la publicacion de mi publicación.
+
+	4.2 Prueba Top-down: Se trata de hacer la misma operacion que la prueba Botton-Up de 	manera inversa, iniciando por los componentes mas robustos o mas grandes. retomando el 	ejemplo de feed de noticias, podemos realizar las pruebas y verificas que las publicaciones 	individuales son correctas dentro del feed.
+
+	4.3 Prueba "Big Bang" Integration: Esta prueba Implica a todos los componentes del 	sistema, en el caso de Facebook, suponemos que integramos una nueva funcionalidad como 	un reproductor de musica, donde se puede crear listas de reproduccion y compartir estas 	listas entre tus amigos. las pruebas consinten en los usuarios puedes crear, modificar, 	eliminar listas de reproduccion de musica, esto significa agregar, quitar musicas de la lista.
+
+	las pruebas se tomaran en cuenta la integracion de la nueva funcionalidad probando que 	todo el resto de los componentes funcionan correctamente junto con esta nueva 	funcionalidad.
+
+	para realizar esta prueba creo que debemos tener una plan detallado para su manejo con 	los errores y resolucion de problemas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

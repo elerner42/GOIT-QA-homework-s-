@@ -1,0 +1,37 @@
+ Técnicas de prueba del diseño de Black box
+
+
+
+1. Respuesta Ejercicio 1:
+
+R.- d) $5800, $28000, $32000
+
+2.- Respuesta Ejercicio 2:
+
+R.- 4 Casos de Prueba minimo.
+
+3. Respuesta Ejercicio 3:
+
+R.- c) asegúrese de que el programa pueda reproducir el video en las pantallas de todos los tamaños especificados (4 pruebas)
+
+4.- Respuesta Ejercicio 4:
+
+Clases de equivalencia:
+
+Hasta 1000 pasos (contados) - ¡Piernas vagas!
+Más de 1000 hasta 2000 (contados) - ¡Esfuércese más!
+Más de 2000 hasta 4000 (contados) - ¡Ya casi ha alcanzado el objetivo!
+Más de 4000 hasta 6000 (contados) - ¡Vamos, un poco más!
+Más de 6000 – ¡Es impresionante!
+
+Valores límite:
+
+Primera clase =  0  <= x <= 1000
+Segunda clase = 1001  <= x <= 2000
+Tercera clase = 2001 <= x <= 4000
+Cuarta clase= 4001 <= x <= 6000
+Quinta clase = 6001 <= x <= 20,000. No hay un límite superior definido, pero podríamos tomar como 20,000, para las pruebas.
+
+5.- Respuesta Ejercicio 5:
+
+R.- Necesitariaos 12 Pruebas. 

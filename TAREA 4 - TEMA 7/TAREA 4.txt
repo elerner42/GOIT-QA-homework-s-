@@ -1,0 +1,55 @@
+TAREA TEMA 7
+
+Sitio Web: https://www.xe.com/
+
+1. Describa, ¿qué tipos de pruebas no funcionales tendrían sentido aplicar en las pruebas completas de este sitio web? y justifique la relevancia de estos tipos de pruebas.
+
+R.- Estos son los tipos de pruebas que considero aplicar para ver si el sitio es seguro y robusto:
+	
+	- Pruebas de Usabilidad: este tipo de pruebas ayudan a identificar si el usuario es capas de 	por 	ejemplo encontrar facilmente como convertir entre diferentes divisas.
+	
+	- Prueba de Rendimiento: importante para probar la capacidad del sitio para trabajar con 	un 	gran numero de clientes conectados al mismo tiempo y realizando conversiones de 	divisas.
+	
+	- Pruebas de Seguridad: es una prueba muy importante para verificar que la informacion 	sensible del cliente y las transacciones esta protegida.
+
+	- Pruebas de compatibilidad: nos ayuda a verificar que el sitio web fucniona en distintos 	exploradores, dispositivos.
+
+	- Pruebas de Recuperacion: se reallizan para comprobar la rapidez de la recuperacion del 	sitio web en caso de fallos de los servidores.
+
+2. Seleccione la función principal en el sitio web: https://www.xe.com/.
+Cree una lista de comprobación para poner a prueba esta función.
+
+R.-  Archivo Excel:  "R2_CheckList.xlsx"
+
+3. Cree 10 (casos de pruebas positivas/negativas) de cualquier programa de pruebas funcionales para bancos (BBVA, SANTANDER)
+
+R.- 10 Casos de pruebas Negativos/Positivos
+
+	a. Casos de prueba positivos:
+
+		Iniciar sesión: Verificar el inicio de sesión con un nombre de usuario y contraseña 			válidos.
+	
+		Ver saldo: Probar que el cliente pueda ver el saldo actual en todas sus cuentas.
+		
+		Transferir dinero: Probar que el cliente debería ser capaz de transferir dinero entre sus 		propias cuentas.
+	
+		Pagar una factura: Probar que el cliente es capaz de poder pagar una factura 				utilizando la funcionalidad de pago de facturas.
+	
+		Depositar dinero: Probar si el Cliente es capaz de depositar dinero en su cuenta.
+	
+	b. Casos de prueba negativos:
+		
+		Iniciar sesión: Verificar que el cliente no deberia iniciar sesión con un nombre de 			usuario y contraseña incorrectos.
+
+		Transferir dinero sin saldo suficiente: El cliente no deberia realizar transferencias si no 		tiene suficiente saldo en su cuenta.
+		
+		Pagar una factura sin saldo suficiente: El cliente no deberia poder pagar una factura si 		no tiene suficiente saldo en su cuenta.
+
+		Depositar una cantidad negativa de dinero: El cliente no debería poder depositar una 			cantidad negativa de dinero.
+
+		Acceder a la funcionalidad sin iniciar sesión: El cliente no tiene que poder entrar o  			acceder a ninguna funcionalidad (como ver el saldo o transferir dinero), esto sin haber 		iniciado una sesion positiva.
+
+
+4. Cree una lista de comprobación para las pruebas de verificación de la aplicación Slack
+
+R.- Archivo Excel:  "R4_CheckList-SLACK.xlsx"

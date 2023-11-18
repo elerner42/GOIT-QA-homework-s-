@@ -1,0 +1,73 @@
+ANALISIS DE LA DOCUMENTACION DE LOS REQUISITOS FUNCIONALES
+
+15.10.12 - DOC.: v0.1 
+APLICACIÓN: LISTBOX v1.98
+
+1. Revision libre:
+
+- Al parecer se a desarrollado varias versiones del software y la documentacio no ha sufrido actualizaciones ya que sigue en la version de doc v0.1.
+
+- El software es una aplicacion de escritorio y tiene requisitos minimos solo para el Sistema Operativo de Windows XP.
+
+- El software parece ser una aplicación que permite a los usuarios crear, modificar, guardar, abrir y eliminar listas alfanuméricas.
+
+- El software parece tener tres modos de funcionamiento: alfabético, numérico y mixto.
+
+- El software parece tener varios elementos de control, incluyendo botones, option buttons y checkboxes.
+
+- El software parece tener una función de clasificación y filtrado para la información de la lista.
+
+- El software parece tener atajos de teclado para varias funciones.
+
+2. Preguntas, errores, inexactitudes, ambigüedades:
+
+¿Qué significa “crear listas alfanuméricas universales”?
+No tenemos una explicacion clara sobre este concepto, al referirse como universales, o ejemplos de los tipos de listas que se pueden gestionar.
+
+¿Cómo se guardan y abren las listas? ¿Cómo se modifican las listas?
+La documentacion menciona que las listas se guardan en archivos, pero no se menciona que tipo de archivos, donde y como se guardan.
+
+¿Cómo se activan los modos de funcionamiento?
+La documentación menciona tres modos de funcionamiento: alfabético, numérico y mixto. Sin embargo, no está claro cómo se activan estos modos. 
+
+¿Cómo se utilizan los elementos de control?
+La documentación menciona que la información de la lista puede ser clasificada en orden ascendente o descendente. Pero no está claro cómo se activa esta clasificación y cómo afecta a la visualización de la información de la lista.
+
+¿Cómo se utilizan los filtros?¿Cómo se clasifica la información de la lista?
+-Se menciona la disponibilidad de filtros en función del modo de funcionamiento. Pero no está claro cómo se aplican estos filtros y cómo afectan a la visualización de la información de la lista.
+
+¿Cómo se agrega una línea a la lista?
+- La documentación menciona que se puede agregar una línea a la lista presionando el botón “Add to List” o la tecla ENTER. Pero no está claro cómo se introduce la información en la lista antes de presionar el botón o la tecla.
+
+¿Cómo se elimina la información?
+-La documentación menciona que se puede eliminar toda la información registrada. Pero no está claro cómo se realiza esta acción.
+
+¿Cómo se cancela la última acción?
+La documentación menciona que se puede cancelar la última acción en cualquier momento usando el comando Undo del menú “Edit”. Pero no está claro qué acciones se pueden deshacer y cuántas acciones anteriores se pueden deshacer.
+
+¿Cómo se accede a la ayuda contextual y a la descripción del programa?
+No se menciona la forma de como acceder a la ayuda y tampoco se menciona si existe un manual para el usuario.
+
+
+3. Revisión role-based:
+
+Como usuario, 
+¿cómo sé qué modo de funcionamiento estoy usando?
+¿cómo sé qué filtro estoy usando?
+¿cómo sé en qué orden se está clasificando la información de la lista?
+¿cómo sé si se ha agregado una línea a la lista?
+¿cómo sé si se ha eliminado la información?
+¿cómo sé si se ha cancelado la última acción?
+
+4.- Preguntas/problemas potenciales para los usuarios:
+
+¿Cómo sé qué modo de funcionamiento estoy usando?
+¿Cómo sé qué filtro estoy usando?
+¿Cómo sé en qué orden se está clasificando la información de la lista?
+¿Cómo sé si se ha agregado una línea a la lista?
+¿Cómo sé si se ha eliminado la información?
+¿Cómo sé si se ha cancelado la última acción?
+¿Cómo accedo a la ayuda contextual y a la descripción del programa?
+¿Cómo uso los atajos de teclado? ¿Hay algún lugar donde pueda ver una lista de todos los atajos de teclado disponibles?
+
+
