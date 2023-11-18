@@ -1,7 +1,5 @@
  Técnicas de prueba del diseño de Black box
 
-
-
 1. Respuesta Ejercicio 1:
 
 R.- d) $5800, $28000, $32000
