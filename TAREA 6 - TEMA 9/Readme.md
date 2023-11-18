@@ -1,47 +1,13 @@
-Criterios para la aceptación de tareas
-Dentro de las técnicas de prueba del diseño de Black box, se deberán resolver los problemas que se exponen a continuación usando las técnicas de la clase de equivalencia y del valor límite. Para cada problema deberá justificar por qué escogió una determinada opción o solución al problema.
-
-Los tareas con respuestas de opción múltiple no se aceptarán si es que se no proporciona la solución al problema, además de la respuesta:)
-
-La tarea debe completarse como un archivo de texto y enviarse con un enlace al archivo de texto.
-
-El sistema está diseñado para facilitar el cálculo de los impuestos.
-Los empleados con salarios de hasta $4000 no pagan impuestos. Los siguientes $1500 están sujetos a un impuesto del 10%.
-
-Los siguientes $28000 están sujetos a un impuesto del 22%.
-
-Todas las siguientes cantidades están sujetas a un impuesto del 40%. ¿Cuál de estos grupos de valores se incluirá en la misma clase de equivalencia?
-
-a) $4800, $14000, $28000 b) $5200, $5500, $28000 c) $28001, $32000, $35000 d) $5800, $28000, $32000
-
-Se calculan las bonificaciones para los empleados.
-El valor no puede ser negativo, pero sí puede ser 0.
-
-Las bonificaciones se calculan dependiendo del periodo de trabajo en la compañía.
-
-Categorías: menos o igual a 2 años de funcionamiento; más de 2 años pero menos de 5 años; 5 años y más pero menos de 10 años; 10 años y más.
-
-¿Cuál es el número mínimo de casos de prueba necesarios para comprobar todos los tipos de clase de equivalencia?
-
-La aplicación para trabajar con el vídeo tiene los siguientes requisitos:
-La aplicación debe reproducir el vídeo en dispositivos con tamaños de pantalla apropiados:
-
-640х480
-1280х720
-1600х1200
-1920х1080
-¿Cuál de los conjuntos de casos de prueba propuestos es el resultado de la aplicación con la técnica de clases de equivalencia?
-
-a) asegúrese de que el programa pueda reproducir el vídeo en una pantalla de 1920x1080 (1 prueba) b) asegúrese de que el programa pueda reproducir el video en pantallas de 640х480 y de 1920х1080 (2 pruebas) c) asegúrese de que el programa pueda reproducir el video en las pantallas de todos los tamaños especificados (4 pruebas) d) asegúrese de que el programa pueda reproducir vídeo en una pantalla de cualquier tamaño a partir de los requisitos (1 prueba)
-
-La aplicación Fitness cuenta los pasos y proporciona al usuario información sobre su actividad.
-El feedback a distintos números de pasos debería ser el siguiente:
-
-hasta 1000 pasos (contados) - ¡Piernas vagas! más de 1000 hasta 2000 (contados) - ¡Esfuércese más! más de 2000 hasta 4000 (contados) - ¡Ya casi ha alcanzado el objetivo! más de 4000 hasta 6000 (contados) - ¡Vamos, un poco más! más de 6000 – ¡Es impresionante!
-
-Defina las clases de equivalencia y los valores límites para lograr una cobertura del 100%.
-
-Está probando un software que controla las tareas y asigna calificaciones.
-Basándose en el número de puntos obtenidos, las calificaciones pueden ser las siguientes: 1-49=F, 50-59=E, 60-69=D, 70-79=C, 80-89=B, 90-100=A.
-
-¿Cuántas pruebas se necesitan para alcanzar el nivel mínimo de cobertura usando la técnica de límites?
+<header><h1></h1></header><h2 class="anchor anchorWithHideOnScrollNavbar_R0VQ" id="criterios-para-la-aceptación-de-tareas">Criterios para la aceptación de tareas<a class="hash-link" href="#criterios-para-la-aceptación-de-tareas" title="Enlace directo al encabezado">​</a></h2><p>Dentro de las técnicas de prueba del diseño de <strong>Black box</strong>, se deberán resolver los problemas que se exponen a continuación usando las técnicas de la clase de equivalencia y del valor límite. Para cada problema deberá justificar por qué
+escogió una determinada opción o solución al problema.</p><p>Los tareas con respuestas de opción múltiple no se aceptarán si es que se no proporciona la solución
+al problema, además de la respuesta:)</p><p><strong>La tarea debe completarse como un archivo de texto y enviarse con un enlace al archivo de texto.</strong></p><ol><li>El sistema está diseñado para facilitar el cálculo de los impuestos.</li></ol><p>Los empleados con salarios de hasta $4000 no pagan impuestos. Los siguientes $1500 están sujetos a un impuesto del 10%.</p><p>Los siguientes $28000 están sujetos a un impuesto del 22%.</p><p>Todas las siguientes cantidades están sujetas a un impuesto del 40%. ¿Cuál de estos grupos de valores se incluirá en la misma clase de equivalencia?</p><p>a) $4800, $14000, $28000
+b) $5200, $5500, $28000
+c) $28001, $32000, $35000
+d) $5800, $28000, $32000</p><ol start="2"><li>Se calculan las bonificaciones para los empleados.</li></ol><p>El valor no puede ser negativo, pero sí puede ser 0.</p><p>Las bonificaciones se calculan dependiendo del periodo de trabajo en la compañía.</p><p>Categorías: menos o igual a 2 años de funcionamiento; más de 2 años pero menos de 5 años; 5 años y más pero menos de 10 años; 10 años y más.</p><p>¿Cuál es el número mínimo de casos de prueba necesarios para comprobar todos los tipos de clase de equivalencia?</p><ol start="3"><li>La aplicación para trabajar con el vídeo tiene los siguientes requisitos:</li></ol><p>La aplicación debe reproducir el vídeo en dispositivos con tamaños de pantalla apropiados:</p><ul><li>640х480</li><li>1280х720</li><li>1600х1200</li><li>1920х1080</li></ul><p>¿Cuál de los conjuntos de casos de prueba propuestos es el resultado de la aplicación con la técnica de clases de equivalencia?</p><p>a) asegúrese de que el programa pueda reproducir el vídeo en una pantalla de 1920x1080 (1 prueba)
+b) asegúrese de que el programa pueda reproducir el video en pantallas de 640х480 y de 1920х1080 (2 pruebas)
+c) asegúrese de que el programa pueda reproducir el video en las pantallas de todos los tamaños especificados (4 pruebas)
+d) asegúrese de que el programa pueda reproducir vídeo en una pantalla de cualquier tamaño a partir de los requisitos (1 prueba)</p><ol start="4"><li>La aplicación Fitness cuenta los pasos y proporciona al usuario información sobre su actividad.</li></ol><p>El feedback a distintos números de pasos debería ser el siguiente:</p><p>hasta 1000 pasos (contados) - ¡Piernas vagas!
+más de 1000 hasta 2000 (contados) - ¡Esfuércese más!
+más de 2000 hasta 4000 (contados) - ¡Ya casi ha alcanzado el objetivo!
+más de 4000 hasta 6000 (contados) - ¡Vamos, un poco más!
+más de 6000 – ¡Es impresionante!</p><p>Defina las clases de equivalencia y los valores límites para lograr una cobertura del 100%.</p><ol start="5"><li>Está probando un software que controla las tareas y asigna calificaciones.</li></ol><p>Basándose en el número de puntos obtenidos, las calificaciones pueden ser las siguientes: <strong>1-49=F</strong>, <strong>50-59=E</strong>, <strong>60-69=D</strong>, <strong>70-79=C</strong>, <strong>80-89=B</strong>, <strong>90-100=A</strong>.</p><p>¿Cuántas pruebas se necesitan para alcanzar el nivel mínimo de cobertura usando la técnica de límites?</p>
