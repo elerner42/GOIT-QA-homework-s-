@@ -1,0 +1,46 @@
+<personas>
+    <persona>
+        <id>1</id>
+        <nombre>Juan Pérez</nombre>
+        <ciudad>Madrid</ciudad>
+        <dirección>Calle de la Luna, 7, 2ºA</dirección>
+        <contactos>
+            <teléfono>+34 123 456 789</teléfono>
+            <correo>juan.perez@ejemplo.com</correo>
+            <Skype>juan.perez</Skype>
+        </contactos>
+    </persona>
+    <persona>
+        <id>2</id>
+        <nombre>María García</nombre>
+        <ciudad>Barcelona</ciudad>
+        <dirección>Calle del Sol, 3, 1ºB</dirección>
+        <contactos>
+            <teléfono>+34 987 654 321</teléfono>
+            <correo>maria.garcia@ejemplo.com</correo>
+            <Skype>maria.garcia</Skype>
+        </contactos>
+    </persona>
+    <persona>
+        <id>3</id>
+        <nombre>Luisa Martínez</nombre>
+        <ciudad>Valencia</ciudad>
+        <dirección>Calle de la Estrella, 5, 3ºC</dirección>
+        <contactos>
+            <teléfono>+34 555 555 555</teléfono>
+            <correo>luisa.martinez@ejemplo.com</correo>
+            <Skype>luisa.martinez</Skype>
+        </contactos>
+    </persona>
+    <persona>
+        <id>4</id>
+        <nombre>Pedro Sánchez</nombre>
+        <ciudad>Sevilla</ciudad>
+        <dirección>Calle de la Montaña, 2, 1ºD</dirección>
+        <contactos>
+            <teléfono>+34 111 111 111</teléfono>
+            <correo>pedro.sanchez@ejemplo.com</correo>
+            <Skype>pedro.sanchez</Skype>
+        </contactos>
+    </persona>
+</personas>

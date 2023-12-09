@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "ciudad": "Madrid",
+        "dirección": "Calle de la Luna, 7, 2ºA",
+        "contactos": {
+            "teléfono": "+34 123 456 789",
+            "correo electrónico": "juan.perez@ejemplo.com",
+            "Skype": "juan.perez"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "María García",
+        "ciudad": "Barcelona",
+        "dirección": "Calle del Sol, 3, 1ºB",
+        "contactos": {
+            "teléfono": "+34 987 654 321",
+            "correo electrónico": "maria.garcia@ejemplo.com",
+            "Skype": "maria.garcia"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Luisa Martínez",
+        "ciudad": "Valencia",
+        "dirección": "Calle de la Estrella, 5, 3ºC",
+        "contactos": {
+            "teléfono": "+34 555 555 555",
+            "correo electrónico": "luisa.martinez@ejemplo.com",
+            "Skype": "luisa.martinez"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Pedro Sánchez",
+        "ciudad": "Sevilla",
+        "dirección": "Calle de la Montaña, 2, 1ºD",
+        "contactos": {
+            "teléfono": "+34 111 111 111",
+            "correo electrónico": "pedro.sanchez@ejemplo.com",
+            "Skype": "pedro.sanchez"
+        }
+    }
+]
